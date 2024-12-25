@@ -1,2 +1,2 @@
-docker.n8n.io/n8n-io/n8n
+n8n
 --platform=linux/arm64 xiaoyaliu/alist
