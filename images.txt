@@ -1,2 +1,2 @@
-n8nio/n8n
+vdsm/virtual-dsm
 --platform=linux/arm64 xiaoyaliu/alist
