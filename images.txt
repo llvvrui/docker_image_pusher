@@ -1,2 +1,2 @@
-vdsm/virtual-dsm
+ghcr.io/open-webui/open-webui:main
 --platform=linux/arm64 xiaoyaliu/alist
